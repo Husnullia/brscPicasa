@@ -11,7 +11,7 @@
 				authkey: '',
 				max_results: 100,
 				start_index: 1,
-				// thumbsizes: 32, 48, 64, 72, 104, 144, 150, 160 with 'u' or 'c' suffix (for uncropped (default if no suffix added) or cropped version)
+				// thumbsizes: 32, 48, 64, 72, 104, 144, 150,160 with 'u' or 'c' suffix (for uncropped (default if no suffix added) or cropped version)
 				// sizes: 94, 110, 128, 200, 220, 288, 320, 400, 512, 576, 640, 720, 800, 912, 1024, 1152, 1280, 1440, 1600
 				// othersizes: d - original uploaded photo including all original Exif data, 'none' - photo will not be linked to bigger size
 				albums_thumbsize: '32c', // values from thumbsizes and sizes
